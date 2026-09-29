@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.qless/
+playwright-report/
+test-results/
+*.tsbuildinfo
+next-env.d.ts
